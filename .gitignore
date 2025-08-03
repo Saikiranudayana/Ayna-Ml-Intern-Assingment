@@ -1,0 +1,50 @@
+# Python environment
+ayna/
+Ayna ML Assingnment
+
+# Model files (large binary files)
+models/
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Data files (optional - uncomment if you want to ignore large datasets)
+# dataset/
+# data/
+models
